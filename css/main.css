@@ -47,11 +47,15 @@ body {font-family: 'Open Sans Condensed', 'Open Sans', sans-serif;
 }
 
 
-.hook_image {
+.hook_image_back {
   width: 100%;
   background-color: #201f18;
   top: 110px;
   height: 450px;
+
+}
+
+.hook_image {
 
 }
 
